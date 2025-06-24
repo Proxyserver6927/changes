@@ -1,0 +1,19 @@
+# This file is used to specify the dependencies for the project.
+numpy
+openai
+pandas
+tiktoken
+streamlit
+langchain
+langchain
+langchain_community
+langchain_openai
+langchain_core
+langgraph
+python-dotenv
+pydantic
+typing-extensions
+python-magic 
+python-magic-bin
+pdfkit
+# choco install wkhtmltopdf

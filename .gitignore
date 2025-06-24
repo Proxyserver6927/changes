@@ -1,0 +1,72 @@
+# Ignore all system files and personal directories
+/AppData/
+/Contacts/
+/Documents/
+/Favorites/
+/Links/
+/Music/
+/Saved Games/
+/Searches/
+/Videos/
+/NTUSER.*
+/ntuser.*
+*.log
+*.LOG1
+*.LOG2
+*.ini
+*.DAT
+*.blf
+*.regtrans-ms
+
+# Ignore Visual Studio Code settings
+/.vscode/
+
+# Ignore temporary files and private data
+/Cookies/
+/Local Settings/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+
+# Python environment and cache
+.env
+.env.*
+*.env
+__pycache__/
+*/__pycache__/
+*.pyc
+
+# Test and script files
+test.py
+
+# Database and persistent storage
+/db/
+/db_md/
+./db/
+/db_md/
+/db/*
+/db_md/*
+
+# Chroma vector database files
+index/
+chroma-*
+*.sqlite3
+
+# Data and intermediate files
+/data/*
+!/data/README.md
+*.pdf
+*.md
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#environment
+venv/ 
