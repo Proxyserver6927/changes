@@ -55,11 +55,7 @@ index/
 chroma-*
 *.sqlite3
 
-# Data and intermediate files
-/data/*
-!/data/README.md
-*.pdf
-*.md
+
 
 # Logs
 *.log
